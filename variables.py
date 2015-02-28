@@ -23,7 +23,7 @@ classes = [
 headers = [
 	('Host', 'mis.teach.ustc.edu.cn'),
 	('Accept','text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'),
-	('Cookie','JSESSIONID=DA7B5B944C10B26A2B60958CF04579F6; __utma=63887786.691193098.1419693077.1421477665.1421675729.11; __utmz=63887786.1419693077.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _gscu_1103646635=19159380twnlr411'),
+	('Cookie','JSESSIONID=08181E4764EE884E408DE31431817598; __utma=63887786.691193098.1419693077.1421477665.1421675729.11; __utmz=63887786.1419693077.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _gscu_1103646635=19159380twnlr411'),
 	('User-Agent','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18'),
 	('Accept-Language','zh-cn'),
 	('Accept-Encoding','gzip, deflate'),
